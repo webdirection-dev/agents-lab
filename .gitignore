@@ -1,0 +1,13 @@
+# Generated knowledge (rebuilt by "1 sub", "2 sub", "3 sub")
+knowledge/*
+!knowledge/.gitkeep
+
+# Local Jenkins exports may contain internal data
+config/jenkins/*
+!config/jenkins/.gitkeep
+
+# Local secrets file (never commit)
+secrets*.json
+*.secret
+
+.DS_Store

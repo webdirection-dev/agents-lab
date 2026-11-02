@@ -1,0 +1,5 @@
+# One pair per line: <repository URL> <local path>
+# The URL is the first word. Everything after the first space is the local path (spaces in the path are fine).
+# Lines starting with # are ignored. Both Windows and Unix paths work.
+# Example:
+# https://bitbucket.example.com/scm/proj/repo.git C:\work\repos\repo
